@@ -1,0 +1,3 @@
+c:\deploy1\fastJSON.dll
+c:\deploy1\fastJSON.deps.json
+c:\deploy1\fastJSON.pdb

@@ -1,0 +1,9 @@
+C:\Users\desamaster\Documents\GitHub\fastJSON\output\net5.0\linux-x64\fastJSON.deps.json
+C:\Users\desamaster\Documents\GitHub\fastJSON\output\net5.0\linux-x64\fastJSON.dll
+C:\Users\desamaster\Documents\GitHub\fastJSON\output\net5.0\linux-x64\ref\fastJSON.dll
+C:\Users\desamaster\Documents\GitHub\fastJSON\output\net5.0\linux-x64\fastJSON.pdb
+C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Release\net5.0\linux-x64\fastJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Release\net5.0\linux-x64\fastJSON.csproj.CoreCompileInputs.cache
+C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Release\net5.0\linux-x64\fastJSON.dll
+C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Release\net5.0\linux-x64\ref\fastJSON.dll
+C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Release\net5.0\linux-x64\fastJSON.pdb
