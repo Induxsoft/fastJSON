@@ -7,3 +7,4 @@ C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Debug\net5.0\fast
 C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Debug\net5.0\fastJSON.dll
 C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Debug\net5.0\ref\fastJSON.dll
 C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Debug\net5.0\fastJSON.pdb
+C:\Users\desamaster\Documents\GitHub\fastJSON\fastJSONcore\obj\Debug\net5.0\fastJSON.csproj.AssemblyReference.cache
